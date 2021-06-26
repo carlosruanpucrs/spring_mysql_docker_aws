@@ -1,0 +1,9 @@
+/home/kali/Desktop/aws/src/main/java/com/github/cazzruan/microservices_aws_docker_usuario/api/v1/response/UsuarioResponse.java
+/home/kali/Desktop/aws/src/main/java/com/github/cazzruan/microservices_aws_docker_usuario/domain/model/Usuario.java
+/home/kali/Desktop/aws/src/main/java/com/github/cazzruan/microservices_aws_docker_usuario/domain/repository/UsuarioRepository.java
+/home/kali/Desktop/aws/src/main/java/com/github/cazzruan/microservices_aws_docker_usuario/api/config/ModelMapperConfig.java
+/home/kali/Desktop/aws/src/main/java/com/github/cazzruan/microservices_aws_docker_usuario/api/v1/mapper/UsuarioModelMapper.java
+/home/kali/Desktop/aws/src/main/java/com/github/cazzruan/microservices_aws_docker_usuario/MicroservicesAwsDockerUsuarioApplication.java
+/home/kali/Desktop/aws/src/main/java/com/github/cazzruan/microservices_aws_docker_usuario/api/v1/request/UsuarioRequest.java
+/home/kali/Desktop/aws/src/main/java/com/github/cazzruan/microservices_aws_docker_usuario/api/v1/controller/UsuarioResource.java
+/home/kali/Desktop/aws/src/main/java/com/github/cazzruan/microservices_aws_docker_usuario/domain/service/UsuarioService.java

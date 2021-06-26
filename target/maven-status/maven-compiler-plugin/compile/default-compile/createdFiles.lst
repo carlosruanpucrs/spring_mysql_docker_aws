@@ -1,0 +1,9 @@
+com/github/cazzruan/microservices_aws_docker_usuario/MicroservicesAwsDockerUsuarioApplication.class
+com/github/cazzruan/microservices_aws_docker_usuario/api/v1/request/UsuarioRequest.class
+com/github/cazzruan/microservices_aws_docker_usuario/api/v1/response/UsuarioResponse.class
+com/github/cazzruan/microservices_aws_docker_usuario/api/v1/controller/UsuarioResource.class
+com/github/cazzruan/microservices_aws_docker_usuario/api/config/ModelMapperConfig.class
+com/github/cazzruan/microservices_aws_docker_usuario/api/v1/mapper/UsuarioModelMapper.class
+com/github/cazzruan/microservices_aws_docker_usuario/domain/service/UsuarioService.class
+com/github/cazzruan/microservices_aws_docker_usuario/domain/model/Usuario.class
+com/github/cazzruan/microservices_aws_docker_usuario/domain/repository/UsuarioRepository.class
